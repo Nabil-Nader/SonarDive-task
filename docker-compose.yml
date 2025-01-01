@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  app:
+    image: nabilnader/sonar-task:1.0.0
+    ports:
+      - "8080:8080"  # Map port 8080 to the host machine

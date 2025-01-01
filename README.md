@@ -1,4 +1,4 @@
-Spring Boot MapStruct Project
+## Spring Boot MapStruct Project
 
 This project is a Spring Boot application using MapStruct for mapping entities to DTOs. It also includes an H2 database with default data and unit tests to ensure the service layer operates correctly.
 
